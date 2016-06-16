@@ -1,0 +1,4 @@
+{
+  "dbPath": "mongodb://tianhang3:123456@ec2-54-251-153-123.ap-southeast-1.compute.amazonaws.com:27017/user",
+  "port": 80
+}
