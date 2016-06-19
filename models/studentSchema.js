@@ -14,9 +14,9 @@ module.exports = (function studentSchema () {
         age: {type: String, required: true},
         city: {type: String, required: true}
     };
-    var collectionName = 'student';
+    var collectionName = 'student2';
     var studentSchema = mongoose.Schema(schema);
-    var Student = mongoose.model(collectionName, studentSchema);
+    var Student2 = mongoose.model(collectionName, studentSchema);
 
-    return Student;
+    return Student2;
 })();

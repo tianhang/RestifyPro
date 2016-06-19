@@ -1,3 +1,3 @@
-/**
- * Created by tianhang on 19/6/2016.
- */
+
+// mongoimport
+// mongoimport --db users --collection contacts --file contacts.json
