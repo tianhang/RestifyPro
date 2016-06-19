@@ -6,7 +6,7 @@
 //This Controller deals with all functionalities of Student
 
 function zipController () {
-    var Zip = require('../models/ZipSchema');
+    var Zip = require('../models/zipSchema');
 
     // Creating New Student
     this.createZip = function (req, res, next) {
